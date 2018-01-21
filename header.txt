@@ -13,7 +13,7 @@ Please note that I do not encouraged or suggest that you apply blindly to every 
 Happy job hunting fellow canadians
 
 ## Know of some Canadian jobs with a easy application process thats not on the list? 
-Why not make a pull request so others can benefit. 
+Why not make a pull request so others can benefit. Just remember to run the ```makeReadme.py``` to rebuild the readme.
 
 ## Inspiration 
 Inspiration for this came from seeing j-delaney [easy-application](https://github.com/j-delaney/easy-application) repo which is mainly targeted at people in the USA. 

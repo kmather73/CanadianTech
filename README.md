@@ -13,7 +13,7 @@ Please note that I do not encouraged or suggest that you apply blindly to every 
 Happy job hunting fellow canadians
 
 ## Know of some Canadian jobs with a easy application process thats not on the list? 
-Why not make a pull request so others can benefit. 
+Why not make a pull request so others can benefit. Just remember to run the ```makeReadme.py``` to rebuild the readme.
 
 ## Inspiration 
 Inspiration for this came from seeing j-delaney [easy-application](https://github.com/j-delaney/easy-application) repo which is mainly targeted at people in the USA. 
@@ -58,7 +58,8 @@ Inspiration for this came from seeing j-delaney [easy-application](https://githu
 | [Daisy Intelligence](http://www.daisyintelligence.com/careers/) | Vaughan, ON |
 | [DarkVision](https://darkvisiontech.com/careers/) | Vancouver, BC |
 | [deepgenomics](https://www.deepgenomics.com/) | Toronto, ON |
-| [DeepMind](https://deepmind.com/careers/) | Edmonton, Montreal || [DNN software](http://www.dnnsoftware.com/about/careers) | Langley, BC |
+| [DeepMind](https://deepmind.com/careers/) | Edmonton, Montreal |
+| [DNN software](http://www.dnnsoftware.com/about/careers) | Langley, BC |
 | [Drop](https://www.earnwithdrop.com/pages/careers) | Toronto, ON |
 | [EA Vancouver](http://www2.ea.com/locations/vancouver)| Burnaby, BC |
 | [ebay](https://careers.ebayinc.com/join-our-team/start-your-search/) | Toronto, ON |
@@ -104,6 +105,7 @@ Inspiration for this came from seeing j-delaney [easy-application](https://githu
 | [Plenty Of Fish](http://www.pof.com/careers.aspx?api=1) | Vancouver, BC |
 | [Rakuten Kobo](https://www.kobo.com/ca/en/p/careers?style=onestore&store=CA) | Toronto, ON |
 | [RealDecoy](https://www.realdecoy.com/careers-en/) | Ottawa, ON |
+| [REDSpace](https://www.redspace.com) | Bedford, Nova Scotia |
 | [Sensibill](https://getsensibill.com/careers) | Toronto, ON |
 | [Shopify](https://www.shopify.ca) | Ottawa, Toronto, Montreal, Waterloo |
 | [Skip the Dishes](https://www.skipthedishes.com/jobs) | Winnipeg, MB or Saskatoon, SK|
