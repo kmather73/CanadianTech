@@ -64,7 +64,7 @@ Inspiration for this came from seeing j-delaney [easy-application](https://githu
 | [EA Vancouver](http://www2.ea.com/locations/vancouver)| Burnaby, BC |
 | [ebay](https://careers.ebayinc.com/join-our-team/start-your-search/) | Toronto, ON |
 | [epam](https://www.epam.com/careers) | Toronto, ON |
-| [eSentire](https://www.esentire.com/about-us/careers/) | Cambridge, ON |
+| [eSentire](https://www.esentire.com/company/careers) | Cambridge, ON |
 | [Eventbase](https://www.eventbase.com/) | Vancouver, BC |
 | [Finn.ai](Finn.ai) | Vancouver, BC |
 | [FLIR](http://www.flir.com/careers/?id=64835) |  Richmond, BC |
